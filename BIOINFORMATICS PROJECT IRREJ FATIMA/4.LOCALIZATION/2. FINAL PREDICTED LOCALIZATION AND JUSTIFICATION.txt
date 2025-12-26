@@ -1,0 +1,4 @@
+PREDICTED BY PSORT AND TARGET-P2: 
+The protein is predicted to be a type I single-pass membrane protein with an Nterminal signal peptide, primarily localized to the endoplasmic reticulum and involved in the secretory pathway.” 
+PREDICTED BY TARGET-P2: 	
+The 458 amino acid protein is a type I single-pass membrane protein with an Nterminal signal peptide, predicted to localize primarily to the endoplasmic reticulum, and likely trafficked via the secretory pathway. The C-terminal cytoplasmic tail may mediate interactions or intracellular trafficking, while no significant nuclear or mitochondrial targeting is predicted

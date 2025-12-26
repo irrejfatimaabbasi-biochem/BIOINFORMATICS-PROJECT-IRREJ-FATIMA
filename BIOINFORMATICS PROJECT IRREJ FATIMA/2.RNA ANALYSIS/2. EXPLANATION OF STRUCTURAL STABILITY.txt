@@ -1,0 +1,3 @@
+The RNA molecule is thermodynamically stable, as shown by the highly negative ensemble for free energy. 
+However, it is structurally flexible, with stability spread across multiple conformations rather than a single dominant structure. 
+This balance of stability and flexibility is often important for regulatory or functional RNAs 
